@@ -1,4 +1,4 @@
-# Back_End_Gestion-de-Garage-M-canique
+# BackEnd-Garage-Mechanic-Management_WebApi_Rest-Csharp
 **************************************
 this is back end project (WebApi REST+.NET)
 
@@ -10,7 +10,7 @@ Open The Projet in Visuel Studio 2019
         <add name="master" connectionString="Data Source=.;Initial Catalog=master;Integrated Security=true" providerName="System.Data.SqlClient"/>
     </connectionStrings>
 
-App_Start>WebApiConfig.cs
+# App_Start>WebApiConfig.cs
 ************************
  // Configuration et services API Web
 
