@@ -25,7 +25,15 @@ Open The Projet in Visuel Studio 2019
             //JSON
             config.Formatters.JsonFormatter.SupportedMediaTypes.Add(new MediaTypeHeaderValue("text/html"));
             config.EnableCors(new EnableCorsAttribute("*", "*", "*"));
-            
+##Architecture of my DB
+***********************
+![](1.png)
+
+
+##Project in Visuel Studio 2019
+*******************************
+![](2.png)
+
 // The general information relating to an assembly depends on
 // the next set of attributes. Change the values of these attributes to modify the information
 // associated with an assembly.
